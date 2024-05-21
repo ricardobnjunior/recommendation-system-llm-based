@@ -1,0 +1,20 @@
+Insights gained from data:
+
+1 - The intention to sell or not is not related to the investment value (money) available in the company's foundation.
+2 - Sales intention is related to the company's location - Companies based in Seattle, San Francisco and New York have a greater chance of purchase intention. While Austin and Chicago have lower intentions. Among them, Chicago has the highest level of uncertainty (maybe) among all items based on
+3 - Volume of opportunities won and lost per role.
+	3.1 - Among the professional profile that has the most "Won opportunities", the Manager stands out, while the Executive Sponsor has 	the worst performance
+	3.2 - Among the professional profile that has the most "Lost opportunities", the Engineer stands out, having the worst performance
+4 - Characteristics of companies with the most success in opportunities
+	4.1 - The cities of New York and Austin have a greater chance of failure in the opportunity, that is, closing in a loss
+	4.2 - The cities of Chicago and Seattle have greater chances of success in the opportunity, that is, closing with a profit
+	4.3 - The owners' intention to sell is not a determining factor in the success or failure of opportunities. However, it is possible 	to observe that when owners intend not to sell, there is a greater incidence of lost opportunities.
+
+
+
+
+Decision-making suggestion:
+
+1 - When making a purchase, consider that the cities of Chicago and Seattle have a greater chance of success in the opportunity, while the cities of New York and Austin have a greater history of losses.
+
+

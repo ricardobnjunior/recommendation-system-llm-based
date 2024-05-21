@@ -1,3 +1,4 @@
+chroma-hnswlib
 numpy
 pandas
 jupyter
@@ -6,3 +7,11 @@ matplotlib
 scipy
 statsmodels
 scikit-learn
+python-dotenv
+langchain
+openai
+huggingface_hub
+langchain_experimental
+chromadb
+tiktoken
+streamlit
